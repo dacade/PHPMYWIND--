@@ -3,7 +3,7 @@ import re
 import time
 
 fuckurl = 'http://www.zhuoce.com.cn/newMediaMarketing.php?cid=17&id=28'
-url = 'http://www.zhuoce.com.cn/newMediaMarketing.php?cid=17&id=28%27'
+url = fuckurl+'%27'
 
 headers={'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36'}
 
