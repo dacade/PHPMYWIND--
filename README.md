@@ -1,0 +1,2 @@
+# PHPMYWIND--
+PHPMYWIND的报错注入脚本
